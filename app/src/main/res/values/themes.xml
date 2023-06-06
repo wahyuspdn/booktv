@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Booktv" parent="@style/Theme.Leanback" />
+</resources>
